@@ -5,7 +5,7 @@
 - 📫 How to reach me 📫
 - 😄 Pronouns: ⚡
 - ⚡ Fun fact: 😄😄😄😄😄😄
-- *(she) was my first 💞️ but she has a boyfriend named Ritchie👀 but...
+- *(she) was my first 💞️ but she has a boyfriend named Ritchie👀
 - if you know you know⚡
 
 <!---
