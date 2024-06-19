@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm user23052036</h1>
 <h3 align="center">A passionate C/C++ developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=user23052036&label=Profile%20views&color=0e75b6&style=flat" alt="user23052036" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=user23052036&label=Profile%20views&color=FF7F7F&style=flat" alt="user23052036" width="120" height="30"/> 
+</p>
 
 - ⚡ Fun fact: **(she) was my first 💞️ but she has a boyfriend named Ritchie👀 if you know you know⚡**
 
@@ -9,6 +11,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user23052036&langs_count=7" alt="Top Langs" />
   </a>
+  <img src="/images/3AyY.gif" alt="Typing GIF" width="350" height="240" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
