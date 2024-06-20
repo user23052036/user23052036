@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=user23052036&label=Profile%20views&color=FF7F7F&style=flat" alt="user23052036" width="120" height="30"/> 
 </p>
 
-- ⚡ Fun fact: **(she) was my first 💞️ but she has a boyfriend named Ritchie👀 if you know you know⚡**
+- ⚡ Fun fact: *(she) was my first 💞️ but *(she) is married to Ritchie👀,I'm gonno win her back I sware
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
