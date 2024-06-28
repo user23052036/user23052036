@@ -36,7 +36,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="/images/bash.png" alt="Bash" width="120" height="70" />
+    <img src="/images/bash.png" alt="Bash" width="130" height="70" />
   </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="/images/kali.jpg" alt="Kali" width="70" height="70" />
