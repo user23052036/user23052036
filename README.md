@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm user23052036</h1>
-<h3 align="center">A passionate C/C++ developer</h3>
+<h3 align="center">passionate developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=user23052036&label=Profile%20views&color=FF7F7F&style=flat" alt="user23052036" width="120" height="30"/> 
