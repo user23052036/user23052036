@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user23052036&langs_count=7" alt="Top Langs" />
+    <img src="https://api.github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user23052036&theme=radical" alt="Top Langs" />
   </a>
   <img src="/images/3AyY.gif" alt="Typing GIF" width="350" height="240" />
 </p>
