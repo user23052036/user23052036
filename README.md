@@ -8,11 +8,15 @@
 - ⚡ Fun fact: *(she) was my first 💞️ but *(she) is married to Ritchie👀,I'm gonno win her back I sware
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://api.github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user23052036&theme=radical" alt="Top Langs" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user23052036&theme=radical"
+      alt="Top Languages"
+    />
   </a>
   <img src="/images/3AyY.gif" alt="Typing GIF" width="350" height="240" />
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,6 +65,13 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user23052036&show_icons=true&locale=en" alt="user23052036" /></p>
+<p>
+  <img
+    align="center"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=user23052036&theme=radical"
+    alt="GitHub stats"
+  />
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=user23052036&" alt="user23052036" /></p>
