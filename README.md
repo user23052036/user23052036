@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm user23052036</h1>
 <h3 align="center">passionate developer</h3>
 
+<p align="center">
+  I'm a third-year Computer Science student who loves building things, solving problems, and learning new tech.
+</p>
+
+<ul>
+  <li>💻 Competitive programmer (LeetCode, CSES, Codeforces, HackerRank)</li>
+  <li>🎥 YouTube channel <strong>1LineCode</strong> for C++ & DSA</li>
+  <li>🌱 Currently exploring web development, automation tools, and AI integrations</li>
+</ul>
+
+<p>
+  I enjoy turning ideas into simple, clean, and useful projects.
+</p>
+
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=user23052036&label=Profile%20views&color=FF7F7F&style=flat" alt="user23052036" width="120" height="30"/> 
 </p>
